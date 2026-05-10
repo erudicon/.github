@@ -2,7 +2,7 @@
 
 Contemplating the existential flights of man
 
-Home for projects outlined in (my blog)[https://erudicon.com]
+Home for projects outlined in [my blog](Dhttps://eruddicon.com)
 
 <!--
 
