@@ -2,6 +2,8 @@
 
 Contemplating the existential flights of man
 
+Home for projects outlined in (my blog)[https://erudicon.com]
+
 <!--
 
 **Here are some ideas to get you started:**
